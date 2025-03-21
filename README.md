@@ -29,3 +29,5 @@ Framer Motion
 EmailJS
 
 Tailwind CSS
+ 
+JavaScript
