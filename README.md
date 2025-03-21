@@ -14,7 +14,7 @@ Tailwind CSS for responsive and modern styling
 
 React.js as the frontend framework
 
-📸 Preview    ok 
+📸 Preview     
 
 
 
