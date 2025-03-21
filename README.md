@@ -14,7 +14,7 @@ Tailwind CSS for responsive and modern styling
 
 React.js as the frontend framework
 
-📸 Preview
+📸 Preview     
 
 
 
@@ -29,3 +29,5 @@ Framer Motion
 EmailJS
 
 Tailwind CSS
+ 
+JavaScript
